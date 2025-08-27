@@ -1,52 +1,61 @@
-🛡️ Политика конфиденциальности
-Дата последнего обновления: 30 июля 2025 года
+🛡️ Privacy Policy
 
-Настоящая Политика конфиденциальности описывает, как мобильное приложение (далее — «Приложение») собирает, использует и защищает информацию пользователей. Мы уважаем конфиденциальность наших пользователей и обязуемся защищать их личные данные.
+Last Updated: July 30, 2025
 
-1. Какие данные мы собираем
-Приложение может собирать следующие данные:
+This Privacy Policy describes how the mobile application (hereinafter referred to as the “App”) collects, uses, and protects user information. We respect the privacy of our users and are committed to protecting their personal data.
 
-Личные данные: имя, адрес электронной почты (только с согласия пользователя)
+Data We Collect
 
-Информация об устройстве: модель устройства, версия ОС, языковые настройки
+The App may collect the following data:
 
-Геолокация: только при наличии разрешения пользователя
+Personal Data: name, email address (only with the user’s consent)
 
-Мы не продаем и не передаём ваши личные данные третьим лицам без вашего разрешения.
+Device Information: device model, OS version, language settings
 
-2. Как мы используем данные
-Собранные данные используются для:
+Geolocation: only with the user’s explicit permission
 
-обеспечения работы функций приложения;
+We do not sell or share your personal data with third parties without your consent.
 
-улучшения пользовательского опыта;
+How We Use Data
 
-анализа сбоев и ошибок;
+The collected data is used for:
 
-предоставления технической поддержки.
+Enabling the core functionality of the App
 
-3. Безопасность данных
-Мы используем современные методы защиты, чтобы обезопасить ваши данные от несанкционированного доступа, потерь и утечек.
+Improving user experience
 
-4. Сторонние сервисы
-Приложение может использовать сторонние сервисы, такие как:
+Analyzing crashes and errors
+
+Providing technical support
+
+Data Security
+
+We use modern security measures to protect your data from unauthorized access, loss, or leakage.
+
+Third-Party Services
+
+The App may use third-party services such as:
 
 Google Play Services
 
 Firebase Analytics
 
-Microsoft App Center (для мониторинга в MAUI-приложениях)
+Microsoft App Center (for monitoring in MAUI applications)
 
-Каждый из этих сервисов имеет свою собственную политику конфиденциальности.
+Each of these services has its own privacy policy.
 
-5. Конфиденциальность детей
-Приложение не предназначено для детей младше 13 лет. Если мы обнаружим, что ребёнок предоставил личные данные, они будут немедленно удалены.
+Children’s Privacy
 
-6. Изменения в политике
-Мы можем время от времени обновлять данную политику. Все изменения будут опубликованы на этой странице. Использование приложения после обновления означает ваше согласие с новой редакцией политики.
+The App is not intended for children under the age of 13. If we discover that a child has provided personal data, such data will be immediately deleted.
 
-7. Контактная информация
-Если у вас есть вопросы по поводу этой политики, пожалуйста, свяжитесь с нами:
+Changes to This Policy
 
-📧 Email: qonuniyatdevelopers.com
-🌐 Веб-сайт: https://mmih.tj/
+We may update this Privacy Policy from time to time. All changes will be published on this page. Continued use of the App after the update means that you accept the revised Privacy Policy.
+
+Contact Information
+
+If you have any questions about this policy, please contact us at:
+
+📧 Email: qonuniyat@developers.com
+
+🌐 Website: https://mmih.tj/
